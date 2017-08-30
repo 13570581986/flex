@@ -1,0 +1,24 @@
+html{
+	height: 100%;
+}
+body{
+	height: 100%;
+}
+header{
+	width: 100%;
+	height: 100px;
+	background: #2fae85;
+}
+.head{
+	width: 54%;
+	margin:0 auto;
+	position: relative;
+}
+.head .logo{
+	position: absolute;
+	top: 10%;
+}
+.nav{
+	position: absolute;
+	left: 40%;
+}
